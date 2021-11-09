@@ -10,7 +10,7 @@ namespace Client
 {
   class Program
     {
-        private static string PublicKeyLocation = @"C:\Users\PCHome\source\repos\AsymetricEncryption.JWE\CreditCardEncryption\bin\Debug\net5.0\publickey.json";
+        private static string PublicKeyLocation = @"C:\Users\PCHome\source\repos\CreditCardAPI\CreditCardEncryption\bin\Debug\net5.0\publickey.json";
         private static HttpClient client = new HttpClient();
         static async Task Main(string[] args)
         {

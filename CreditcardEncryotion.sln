@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateKey", "AsymetricEncryptionDemo\PrivateKey.csproj", "{B075F926-2043-479F-B16A-BE5061A40A16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateKey", "CreditCardEncryption\PrivateKey.csproj", "{B075F926-2043-479F-B16A-BE5061A40A16}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9E71B61D-94B1-4230-ACBB-E482C2770331}"
 EndProject
