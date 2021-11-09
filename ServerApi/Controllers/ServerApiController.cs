@@ -7,7 +7,7 @@ using NetDevPack.Security.Jwt.Interfaces;
 namespace ServerApi.Controllers
 {
   [ApiController]
-    [Route("teste")]
+    [Route("Controller")]
     public class ServerApiController : ControllerBase
     {
         private readonly ILogger<ServerApiController> _logger;
